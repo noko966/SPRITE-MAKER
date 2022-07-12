@@ -1,0 +1,19 @@
+{
+  "name": "sprite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  },
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "node-sprite": "^0.1.2",
+    "node-sprite-generator": "^0.10.2"
+  }
+}
